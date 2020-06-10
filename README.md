@@ -15,6 +15,6 @@ outside temperature drops, the Air Conditioner would have to work harder to main
 temperature of 18 degrees celsius.
 
 ## Lingustic Variables and Membership functions
-![alt text](https://i.ibb.co/h7r5Y09/Diagram1.png)
-![alt text](https://i.ibb.co/6wCrn2C/Diagram2.png)
-![alt text](https://i.ibb.co/RTYDchB/Diagram3.png)
+![alt text](https://i.ibb.co/h7r5Y09/Diagram1.png "Diagram")
+![alt text](https://i.ibb.co/6wCrn2C/Diagram2.png "Diagram")
+![alt text](https://i.ibb.co/RTYDchB/Diagram3.png "Diagram")
